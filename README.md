@@ -19,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
