@@ -117,4 +117,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
