@@ -26,7 +26,6 @@ class Solution {
             if(hm.get(s2.charAt(i)) == 0){
                 hm.remove(s2.charAt(i));
             }
-            
         }
         return update == 2 || update == 0;
     }
