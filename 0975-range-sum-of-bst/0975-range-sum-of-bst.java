@@ -14,31 +14,22 @@
  * }
  */
 class Solution {
+    int sum = 0;
     public int rangeSumBST(TreeNode root, int low, int high) {
+       helper(root,low,high);
+       return sum;
+    }
+
+    public void helper(TreeNode root, int low, int high){
+
         if(root == null){
-            return 0;
+            return;
         }
-        int sum = 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-
-        while(!q.isEmpty()){
-            int size = q.size();
-
-            for(int i=0;i<size;i++){
-                TreeNode temp = q.poll();
-                if(temp.val >=low && temp.val <=high){
-                    sum+=temp.val;
-                }
-                if(temp.left != null){
-                    q.offer(temp.left);
-                }
-                if(temp.right != null){
-                    q.offer(temp.right);
-                }
-            }
+        if(root.val >= low && root.val <= high){
+            System.out.println(root.val);
+            sum+=root.val;
         }
-
-        return sum;
+        helper(root.left, low, high);
+        helper(root.right, low, high);
     }
 }
