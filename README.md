@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Heap (Priority Queue)
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
