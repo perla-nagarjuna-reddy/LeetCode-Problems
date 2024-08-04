@@ -30,15 +30,7 @@ class Solution {
             temp = temp.next;
             count++;
         }
-        temp = evenNode.next;
-
-        while(temp != null){
-            ListNode node = new ListNode(temp.val);
-            current1.next = node;
-            current1 = node;
-            temp = temp.next;
-        }
-
+        current1.next = evenNode.next;
         return oddNode.next;
     }
 }
