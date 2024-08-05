@@ -22,7 +22,7 @@ class Solution {
         
     }
 }
-// @nd Method
+// 2nd Method
 // ListNode temp = head;
 //         ListNode prev = null;
 
