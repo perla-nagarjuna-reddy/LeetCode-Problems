@@ -21,20 +21,12 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
         int n = sizeOfLL(head);
-        System.out.println(n);
         ListNode prev = slow;
         while(fast != null && fast.next != null){
             prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
-        // System.out.println(slow.val);
-        // if(n % 2 == 0){
-        //     slow.next = fast.next;
-        // }
-        // else{
-        //     prev.next = slow.next;
-        // }
         prev.next = slow.next;
         return head;
 
