@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
