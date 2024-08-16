@@ -13,7 +13,6 @@ class Solution {
         ListNode temp = list1;
         ListNode dummy = new ListNode(-1);
         ListNode mover = dummy;
-
         ListNode prev  = null;
         
         for(int i=0;i<a;i++){
