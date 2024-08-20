@@ -20,13 +20,14 @@ class Solution {
         }
         ListNode slow = head;
         ListNode fast = head;
-        int n = sizeOfLL(head);
+        // int n = sizeOfLL(head);
         ListNode prev = slow;
         while(fast != null && fast.next != null){
             prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
+        
         prev.next = slow.next;
         return head;
 
