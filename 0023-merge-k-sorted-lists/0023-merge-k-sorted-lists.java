@@ -10,30 +10,29 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        ArrayList<Integer> ans = new ArrayList<>();
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
         for(int i=0;i<lists.length;i++){
             ListNode temp = lists[i];
 
             while(temp != null){
-                ans.add(temp.val);
+                pq.add(temp.val);
                 temp = temp.next;
             }
         }
 
-        Collections.sort(ans);
-        return convertArrToLL(ans);
-    }
 
-    public ListNode convertArrToLL(ArrayList<Integer> ans){
-        if(ans.size() == 0) return null;
-        ListNode head = new ListNode(ans.get(0));
-        ListNode mover = head;
-        for(int i=1;i<ans.size();i++){
-            ListNode node = new ListNode(ans.get(i));
-            mover.next = node;
-            mover = node;
+
+        ListNode dummy = new ListNode(-1);
+        ListNode mover = dummy;
+
+        while(!pq.isEmpty()){
+            int val = pq.poll();
+            ListNode newNode = new ListNode(val);
+            mover.next = newNode;
+            mover = newNode;
         }
-        return head;
+
+        return dummy.next;
     }
 }
