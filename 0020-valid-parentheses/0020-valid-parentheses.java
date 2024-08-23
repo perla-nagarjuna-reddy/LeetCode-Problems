@@ -4,20 +4,26 @@ class Solution {
 
         for(int i=0;i<s.length();i++){
             String ch = String.valueOf(s.charAt(i));
+
+            if(ch.equals("(") || ch.equals("[") || ch.equals("{")){
+                st.push(ch);
+            }
+            else if(st.isEmpty()){
+                return false;
+            }
+            else if(!st.isEmpty() && st.peek().equals("(") && ch.equals(")") ){
+                    st.pop();
+                }
+            else if(!st.isEmpty() && st.peek().equals("{") && ch.equals("}") ){
+                st.pop();
+            }
+            else if(!st.isEmpty() && st.peek().equals("[") && ch.equals("]")){
+                st.pop();
+            }
+            else{
+                return false;
+            }
             
-            if(!st.isEmpty() && st.peek().equals("(") && ch.equals(")") ){
-                st.pop();
-                continue;
-            }
-            if(!st.isEmpty() && st.peek().equals("{") && ch.equals("}") ){
-                st.pop();
-                continue;
-            }
-            if(!st.isEmpty() && st.peek().equals("[") && ch.equals("]")){
-                st.pop();
-                continue;
-            }
-            st.push(ch);
         }
         System.out.println(st);
         return st.isEmpty();
