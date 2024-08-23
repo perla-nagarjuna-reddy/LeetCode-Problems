@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
