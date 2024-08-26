@@ -1,26 +1,30 @@
+class Pair{
+    int val;
+    int ind;
+
+    Pair(int val,int ind){
+        this.val = val;
+        this.ind = ind;
+    }
+}
+
 class StockSpanner {
-    ArrayList<Integer>arr;
+    Stack<Pair> st;
+    int index = 0;
     public StockSpanner() {
-        arr = new ArrayList<>();
+        st = new Stack<>();
     }
     
     public int next(int price) {
-        int count = 0;
-        arr.add(price);
-        if(arr.size() == 1){
-            return 1;
+        
+        while(!st.isEmpty() && st.peek().val <= price){
+            st.pop();
         }
-        else{
-            for(int i=arr.size()-1;i>=0;i--){
-                if(arr.get(i) <= price){
-                    count++;
-                }
-                else{
-                    break;
-                }
-            }
-        }
-        return count;
+        int ans = st.isEmpty()?index+1:index-st.peek().ind;
+        Pair pair = new Pair(price,index);
+        index++;
+        st.push(pair);
+        return ans;
     }
 }
 
