@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Database
 |  |
 | ------- |
