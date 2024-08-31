@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
+| [2227-sum-of-subarray-ranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2227-sum-of-subarray-ranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
