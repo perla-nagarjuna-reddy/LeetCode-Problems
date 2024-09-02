@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
