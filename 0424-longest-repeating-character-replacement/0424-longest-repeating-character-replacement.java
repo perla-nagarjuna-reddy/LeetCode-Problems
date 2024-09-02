@@ -9,7 +9,7 @@ class Solution {
         while(r < s.length()){
             hash[s.charAt(r)-'A']++;
             maxFrequency = Math.max(maxFrequency, hash[s.charAt(r)-'A']);
-            while((r-l+1) - maxFrequency > k){
+            if((r-l+1) - maxFrequency > k){
                 hash[s.charAt(l)-'A']--;
                 maxFrequency = 0;
 
