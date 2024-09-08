@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
