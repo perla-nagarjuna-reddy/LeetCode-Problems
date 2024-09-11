@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
