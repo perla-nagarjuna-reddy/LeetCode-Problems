@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
