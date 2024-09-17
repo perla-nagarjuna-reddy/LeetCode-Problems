@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
