@@ -3,11 +3,12 @@ class Solution {
         int n = intervals.length;
         Arrays.sort(intervals, new Comparator<int[]>() {
             public int compare(int[] a, int[] b) {
-                if (a[0] != b[0]) {
-                    return a[0] - b[0];
-                } else {
-                    return a[1] - b[1];
-                }
+                // if (a[0] != b[0]) {
+                //     return a[0] - b[0];
+                // } else {
+                //     return a[1] - b[1];
+                // }
+                return a[0] - b[0];
             }
         });
 
@@ -21,10 +22,7 @@ class Solution {
                 end = Math.max(end,temp[1]);
             }
             else{
-                int[] arr = new int[2];
-                arr[0] = start;
-                arr[1] = end;
-                ans.add(arr);
+                ans.add(new int[]{start,end});
                 start = intervals[i][0];
                 end = intervals[i][1];
             }
