@@ -8,7 +8,7 @@ class Solution {
     }
 
     public void findAllSubsets(int[] nums,int ind,int n,List<Integer>res,List<List<Integer>> ans){
-        if(ind >= n){
+        if(ind == n){
             ans.add(new ArrayList<>(res));
             return;
         }
