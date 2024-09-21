@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -449,4 +451,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
