@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0136-single-number) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
