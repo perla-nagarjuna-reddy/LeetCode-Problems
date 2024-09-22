@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0048-rotate-image) |
@@ -454,5 +455,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
