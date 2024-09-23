@@ -15,7 +15,7 @@ class Solution {
 
             for(int i=ind;i<arr.length;i++){
                 if(i > ind && arr[i] == arr[i-1]) continue;
-                if(arr[ind] > target) break;
+                if(arr[i] > target) break;
                 res.add(arr[i]);
                 findCombinations(arr,i+1,target - arr[i],res,ans);
                 res.remove(res.size() - 1);
