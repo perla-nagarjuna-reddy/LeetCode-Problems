@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [1731-even-odd-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Database
 |  |
