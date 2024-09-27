@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1260-day-of-the-year) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -481,4 +484,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
