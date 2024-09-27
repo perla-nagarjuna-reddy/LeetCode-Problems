@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
