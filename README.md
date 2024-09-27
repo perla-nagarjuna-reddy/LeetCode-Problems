@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1260-day-of-the-year) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -488,4 +490,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
