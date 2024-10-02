@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
