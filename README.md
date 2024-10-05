@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0777-toeplitz-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0777-toeplitz-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
