@@ -1,29 +1,18 @@
 class Solution {
     public int countPoints(String rings) {
-        int count = 0;
-        for(int i=0;i<=9;i++){
-            int B = 0 ;
-            int G = 0 ;
-            int R = 0 ;
+        HashMap<Character,Set<Character>> ms = new HashMap<>();
 
-            for(int j=1;j<rings.length();j+=2){
-                if(Integer.valueOf(rings.charAt(j)) - 48 == i && rings.charAt(j-1) == 'B'){
-                    B++;
-                }
-                if(Integer.valueOf(rings.charAt(j)) - 48 == i && rings.charAt(j-1) == 'G'){
-                    G++;
-                }
-                if(Integer.valueOf(rings.charAt(j))-48 == i && rings.charAt(j-1) == 'R'){
-                    R++;
-                }
+        for(int i=1;i<rings.length();i+=2){
+            if(!ms.containsKey(rings.charAt(i))){
+                ms.put(rings.charAt(i),new HashSet<Character>());
             }
-
-            if(B >= 1 && G >=1 && R>=1){
-                count++;
-            }
-
+            ms.get(rings.charAt(i)).add(rings.charAt(i-1));
         }
-
+        int count=0;
+        for(char s:ms.keySet()){
+            if(ms.get(s).size()==3)
+            count++;
+        }
         return count;
     }
 }
