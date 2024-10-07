@@ -8,7 +8,6 @@ class Solution {
                 st.push(s.charAt(i));
             }
             else if(!st.isEmpty() && (String.valueOf(st.peek())+s.charAt(i)).equals("AB") || (String.valueOf(st.peek())+s.charAt(i)).equals("CD") ){
-                // System.out.println();
                 st.pop();
             }
             else{
