@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Prefix Sum
 |  |
 | ------- |
