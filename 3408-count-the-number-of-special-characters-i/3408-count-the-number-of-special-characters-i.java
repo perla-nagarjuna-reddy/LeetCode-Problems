@@ -7,7 +7,6 @@ class Solution {
         int[] upper = new int[26];
         for(int i = 0;i < word.length();i++){
             int ch =(char)word.charAt(i);
-            // System.out.println(ch);
             if(ch >= 97 && ch <=122){
                 small[ch-97]++;
             }
