@@ -40,10 +40,8 @@ class Solution {
                     q.offer(temp.right);
                 }
             }
-            ans.add(lst);
+            ans.add(0,lst);
         }
-
-        Collections.reverse(ans);
         return ans;
     }
 }
