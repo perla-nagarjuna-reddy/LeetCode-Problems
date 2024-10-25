@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1035-cousins-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1035-cousins-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1035-cousins-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
