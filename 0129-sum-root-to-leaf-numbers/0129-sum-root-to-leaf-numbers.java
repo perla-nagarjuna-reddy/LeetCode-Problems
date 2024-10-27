@@ -17,19 +17,19 @@ class Solution {
     int sum  = 0;
     StringBuilder sb = new StringBuilder();
     public int sumNumbers(TreeNode root) {
-        helper(root);
-        return sum;
+        return helper(root,0);
     }
-    public void helper(TreeNode root){
+    public int helper(TreeNode root,int sum){
         if(root == null){
-            return;
+            return 0;
         }
-        sb.append(root.val);
+        sum = sum * 10 + root.val;
         if (root.left == null && root.right == null) {
-            sum += Integer.parseInt(sb.toString());
+            return sum;
         }
-        helper(root.left);
-        helper(root.right);
-        sb.deleteCharAt(sb.length() - 1);
+        int left = helper(root.left,sum);
+        int right = helper(root.right,sum);
+
+        return left + right;
     }
 }
