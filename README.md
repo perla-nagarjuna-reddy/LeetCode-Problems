@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
