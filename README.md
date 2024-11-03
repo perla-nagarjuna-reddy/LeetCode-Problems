@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1035-cousins-in-binary-tree) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0937-online-stock-span](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
