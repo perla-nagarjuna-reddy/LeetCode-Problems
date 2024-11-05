@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2226-rings-and-rods) |
+| [2365-percentage-of-letter-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2580-circular-sentence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
