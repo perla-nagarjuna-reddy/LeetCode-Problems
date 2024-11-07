@@ -18,21 +18,16 @@ class Node {
 */
 
 class Solution {
+    int count = 1;
     public int maxDepth(Node root) {
-        return levelOrder(root).size();
-
+        if(root == null) return 0;
+        levelOrder(root);
+        return count;
     }
-    public List<List<Integer>> levelOrder(Node root) {
-        List<List<Integer>> ans = new ArrayList<>();
-
-        if(root == null) return ans;
-
+    public void levelOrder(Node root) {
+        if(root == null) return;
         Queue<Node> q = new LinkedList<>();
-
         q.offer(root);
-        List<Integer> list = new ArrayList<>();
-        list.add(root.val);
-        ans.add(list);
         while(!q.isEmpty()){
             int size = q.size();
             List<Integer> temp = new ArrayList<>();
@@ -48,10 +43,8 @@ class Solution {
                 }
             }
             if(temp.size() != 0){
-                ans.add(temp);
+                count++;
             }
         }
-
-        return ans;
     }
 }
