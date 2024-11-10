@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
