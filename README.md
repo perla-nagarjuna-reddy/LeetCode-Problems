@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
