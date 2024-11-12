@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2226-rings-and-rods) |
+| [2406-decode-the-message](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2226-rings-and-rods](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2365-percentage-of-letter-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2365-percentage-of-letter-in-string) |
+| [2406-decode-the-message](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2580-circular-sentence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
