@@ -22,7 +22,6 @@ class Solution {
             else {
                 break;
             }
-
         }
 
         if(count_0 == 0 && count_1 == 0){
