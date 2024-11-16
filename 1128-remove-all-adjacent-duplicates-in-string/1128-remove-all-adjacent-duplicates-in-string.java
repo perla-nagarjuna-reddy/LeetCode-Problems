@@ -3,22 +3,20 @@ class Solution {
         Stack<Character> st = new Stack<>();
 
         for(int i=0;i<s.length();i++){
-            if(st.isEmpty()){
-                st.push(s.charAt(i));
-            }
-            else if(!st.isEmpty() && st.peek() == s.charAt(i)){
+            char current = s.charAt(i);
+            if (!st.isEmpty() && st.peek() == current) {
                 st.pop();
-            }
-            else{
-                st.push(s.charAt(i));
+            } else {
+                st.push(current);
             }
         }
-        String ans = "";
+
+        StringBuilder ans = new StringBuilder();
 
         while(!st.isEmpty()){
-            ans = st.pop()+ans;
+            ans.append(st.pop());
         }
 
-        return ans;
+        return ans.reverse().toString();
     }
 }
