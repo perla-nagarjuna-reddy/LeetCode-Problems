@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0575-distribute-candies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
