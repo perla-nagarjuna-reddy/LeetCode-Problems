@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3397-find-the-integer-added-to-array-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
