@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
