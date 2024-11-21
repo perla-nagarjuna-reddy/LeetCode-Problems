@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2630-alternating-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
