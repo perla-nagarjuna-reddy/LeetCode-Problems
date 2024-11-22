@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2496-count-days-spent-together](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2496-count-days-spent-together) |
 | [2630-alternating-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2365-percentage-of-letter-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2406-decode-the-message](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
+| [2496-count-days-spent-together](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2496-count-days-spent-together) |
 | [2580-circular-sentence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
