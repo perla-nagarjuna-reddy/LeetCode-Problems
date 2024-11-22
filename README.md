@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
