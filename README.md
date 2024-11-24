@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2496-count-days-spent-together) |
+| [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -799,4 +800,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
