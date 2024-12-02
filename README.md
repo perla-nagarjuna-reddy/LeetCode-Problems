@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
+| [1078-remove-outermost-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
