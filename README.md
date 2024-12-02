@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1168-duplicate-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
