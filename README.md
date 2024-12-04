@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3164-last-visited-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3164-last-visited-integers) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3188-find-champion-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3188-find-champion-i) |
+| [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
@@ -833,4 +834,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
+| [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
