@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 ## Quickselect
@@ -791,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
