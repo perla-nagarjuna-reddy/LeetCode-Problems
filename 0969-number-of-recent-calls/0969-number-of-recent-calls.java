@@ -10,13 +10,13 @@ class RecentCounter {
         int end = t;
         lst.add(t);
 
-        for(int i=0;i<lst.size();i++){
+        for(int i=lst.size() - 1;i >= 0;i--){
             if(lst.get(i) >= start && lst.get(i) <=  end){
                 count++;
             }
-            // else{
-            //     lst.remove(i);
-            // }
+            else{
+                return count;
+            }
         }
 
         return count;
