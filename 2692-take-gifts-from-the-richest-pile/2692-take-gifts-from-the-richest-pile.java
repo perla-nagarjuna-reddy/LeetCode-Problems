@@ -1,23 +1,25 @@
 class Solution {
     public long pickGifts(int[] gifts, int k) {
-        List<Integer> lst = new ArrayList<>();
+        PriorityQueue<Integer> heap = new PriorityQueue<>((a, b) -> b - a);
+
         for(int val : gifts){
-            lst.add(val);
-        }
-        while( k-- > 0){
-            Collections.sort(lst);
-            int ele = lst.get(lst.size() - 1);
-            lst.remove(lst.size() - 1);
-            int left = (int)Math.floor(Math.sqrt(ele));
-            lst.add(left);
+            heap.add(val);
         }
 
-        long sum = 0;
+        for(int i=0;i<k;i++){
+            int maxEle  = heap.poll();
 
-        for(int val : lst){
-            sum += val;
+            int leftPiles = (int)Math.floor(Math.sqrt(maxEle));
+
+            heap.add(leftPiles);
         }
 
-        return sum;
+        long ans = 0;
+
+        while(!heap.isEmpty()){
+            ans =  ans + heap.poll();
+        }
+
+        return ans;
     }
 }
