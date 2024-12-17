@@ -13,7 +13,7 @@ class Solution {
         for(int i=start;i<arr.length-end;i++){
             ans +=arr[i];
         }
-        System.out.println(ans);
+        // System.out.println(ans);
         return (ans / (arr.length - pos));
 
     }
