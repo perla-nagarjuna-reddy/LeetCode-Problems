@@ -579,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1714-rearrange-spaces-between-words) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
