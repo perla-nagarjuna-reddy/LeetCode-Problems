@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
