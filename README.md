@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1642-water-bottles](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1642-water-bottles) |
+| [1708-design-parking-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
+| [1708-design-parking-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 ## Hash Table
 |  |
@@ -752,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1708-design-parking-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
