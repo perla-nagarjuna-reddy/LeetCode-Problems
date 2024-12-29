@@ -582,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1714-rearrange-spaces-between-words) |
