@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2679-count-distinct-numbers-on-board](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
