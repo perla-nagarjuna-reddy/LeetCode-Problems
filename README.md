@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-calculate-amount-paid-in-taxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0777-toeplitz-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3188-find-champion-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3188-find-champion-i) |
