@@ -22,9 +22,12 @@ class Solution {
         if(root == null){
             return 0;
         }
-
         int left = helper(root.left);
         int right = helper(root.right);
-        return 1+Math.max(left,right);
+        left = 1 + left;
+        right = 1 + right;
+        return Math.max(left,right);
+
+        
     }
 }
