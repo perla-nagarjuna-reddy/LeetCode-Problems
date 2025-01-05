@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1755-defuse-the-bomb](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
