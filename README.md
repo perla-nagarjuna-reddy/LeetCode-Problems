@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
@@ -914,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -926,4 +929,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
