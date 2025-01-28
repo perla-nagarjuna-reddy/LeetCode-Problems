@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
 | ------- |
