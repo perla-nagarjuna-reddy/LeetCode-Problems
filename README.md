@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
