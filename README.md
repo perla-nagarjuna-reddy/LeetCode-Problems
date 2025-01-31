@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2679-count-distinct-numbers-on-board](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2698-find-the-array-concatenation-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2679-count-distinct-numbers-on-board](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
