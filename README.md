@@ -605,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0046-permutations) |
