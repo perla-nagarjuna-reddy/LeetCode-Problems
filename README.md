@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
