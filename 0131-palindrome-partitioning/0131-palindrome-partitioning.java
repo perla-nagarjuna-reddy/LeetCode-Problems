@@ -6,25 +6,32 @@ class Solution {
         return ans;
     }
 
-    public void solve(String s,int ind,List<String> res,List<List<String>> ans){
-        if(ind == s.length()){
+    public void solve(String s,int index,List<String> res,List<List<String>> ans){
+        if(index == s.length()){
             ans.add(new ArrayList<>(res));
             return;
         }
 
-        for(int i=ind;i<s.length();i++){
-            if(isPalindrome(s,ind,i)){
-                res.add(s.substring(ind,i+1));
+        for(int i = index ; i < s.length() ; i++){
+
+            if(checkIfPalindrome(s,index,i)){
+                res.add(s.substring(index,i+1));
                 solve(s,i+1,res,ans);
                 res.remove(res.size()-1);
             }
         }
     }
-    public boolean isPalindrome(String s, int start,int end){
+
+    public boolean checkIfPalindrome(String s, int i,int j){
+        int start = i;
+        int end = j;
+
         while(start <= end){
-            if(s.charAt(start++) != s.charAt(end--)){
+            if(s.charAt(start) != s.charAt(end)){
                 return false;
             }
+            start++;
+            end--;
         }
 
         return true;
