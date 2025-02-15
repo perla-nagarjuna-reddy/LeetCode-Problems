@@ -605,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2630-alternating-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -955,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
 | ------- |
