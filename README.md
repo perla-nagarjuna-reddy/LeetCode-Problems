@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0619-biggest-single-number) |
 | [1734-bank-account-summary-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1734-bank-account-summary-ii) |
 ## Array
 |  |
