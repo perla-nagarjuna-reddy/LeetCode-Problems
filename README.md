@@ -587,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1260-day-of-the-year) |
