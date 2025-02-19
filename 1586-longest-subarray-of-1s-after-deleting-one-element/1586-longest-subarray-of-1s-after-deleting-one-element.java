@@ -2,11 +2,6 @@ class Solution {
     public int longestSubarray(int[] nums) {
 
         int count = 0;
-
-        boolean first_zero = false;
-
-        int last_index_i = 0;
-
         int ans = Integer.MIN_VALUE;
 
         int i = 0;
