@@ -8,7 +8,7 @@ class Solution {
 
         int ans = 0;
         int count = 0;
-        while(pq.size() >= 2){
+        while(pq.size() > 1){
             int first= pq.poll();
             int second = pq.poll();
 
