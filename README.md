@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2107-find-unique-binary-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -661,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2107-find-unique-binary-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -973,6 +976,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
