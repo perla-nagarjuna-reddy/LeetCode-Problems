@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
+| [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
