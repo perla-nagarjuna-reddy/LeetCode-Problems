@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2679-count-distinct-numbers-on-board](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
@@ -753,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
