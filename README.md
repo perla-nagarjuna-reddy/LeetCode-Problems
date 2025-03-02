@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1035-cousins-in-binary-tree) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1035-cousins-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -1071,5 +1073,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
