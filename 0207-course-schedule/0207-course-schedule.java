@@ -10,7 +10,7 @@ class Solution {
             int first = prerequisites[i][0];
             int second = prerequisites[i][1];
 
-            adj.get(second).add(first);
+            adj.get(first).add(second);
         }
 
         int n = adj.size();
