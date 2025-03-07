@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
