@@ -723,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2365-percentage-of-letter-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2401-count-asterisks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2406-decode-the-message) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
 | [2496-count-days-spent-together](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2496-count-days-spent-together) |
@@ -1004,6 +1005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Queue
 |  |
 | ------- |
