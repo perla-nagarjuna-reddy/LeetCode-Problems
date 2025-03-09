@@ -677,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0022-generate-parentheses) |
@@ -1059,6 +1060,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
