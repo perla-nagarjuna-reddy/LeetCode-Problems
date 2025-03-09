@@ -636,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0520-detect-capital) |
