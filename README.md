@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -930,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Counting Sort
