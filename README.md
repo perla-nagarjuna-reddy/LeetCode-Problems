@@ -641,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -1121,4 +1123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
