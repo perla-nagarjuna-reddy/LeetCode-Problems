@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
@@ -966,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
