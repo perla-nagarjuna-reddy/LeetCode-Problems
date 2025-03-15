@@ -39,8 +39,9 @@
             boolean notTaken = solve(ind - 1, target, arr, dp);
 
             boolean taken = false;
-            if (arr[ind] <= target)
+            if (arr[ind] <= target){
                 taken = solve(ind - 1, target - arr[ind], arr, dp);
+            }
             dp[ind][target] = notTaken || taken ? 1 : 0;
             return notTaken || taken;
         }
