@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
@@ -801,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1083,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
