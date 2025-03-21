@@ -32,9 +32,6 @@ class Solution {
             current.next = newNode;
             current = newNode;
             current.next = fast;
-
-            current = fast;
-
             slow =  fast;
             fast = fast.next;
         }
