@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
@@ -917,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
