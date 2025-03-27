@@ -2,33 +2,43 @@ class Solution {
     public int lengthOfLIS(int[] nums) {
         int n =  nums.length;
 
-        int[][] dp = new int[n][n+1];
+        ArrayList<Integer> lst = new ArrayList<>();
 
-        for(int i = 0; i < n ; i++){
-            Arrays.fill(dp[i],-1);
+        lst.add(nums[0]);
+        for(int i = 1; i < n; i++){
+
+            if(nums[i] > lst.get(lst.size() - 1)){
+                lst.add(nums[i]);
+            }
+            else{
+                
+                int pos = do_binarySearch(lst, nums[i]);
+                lst.set(pos, nums[i]); 
+            }
+
+            // prev = nums[i];
         }
-
-        int ans = solve(0, -1, nums,n,dp);
-
-        return ans;
+ 
+        return lst.size();
     }
 
-    int  solve(int ind, int prev_ind,int[] nums, int n,int[][] dp){
+    public int do_binarySearch(ArrayList<Integer> lst,int val){
 
-        if(ind == n) return  0;
+        int low = 0;
 
+        int high = lst.size() - 1;
 
-        if(dp[ind][prev_ind+1] != -1) return dp[ind][prev_ind+1];
+        while(low <= high){
 
+            int mid = (low + high) / 2;
 
-        int notTake = solve(ind+1,prev_ind,nums,n,dp);
-
-        int take  = 0 ;
-
-        if(prev_ind == -1 || nums[ind] > nums[prev_ind]){
-            take = 1 + solve(ind+1,ind,nums,n,dp);
+            if(lst.get(mid) >= val){
+                high = mid - 1;
+            }
+            else{
+                low = mid + 1;
+            }
         }
-
-        return dp[ind][prev_ind+1]=Math.max(take,notTake);
+        return low;
     }
 }
