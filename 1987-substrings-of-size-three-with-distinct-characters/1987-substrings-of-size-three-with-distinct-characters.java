@@ -11,21 +11,15 @@ class Solution {
 
         while(j < n){
 
-            if((j - i + 1) < 3){
-                j++;
-            }
-            else if((j-i+1) == 3){
-
-                Set<Character> set = new HashSet<>();
-
-                for(int k = i; k <= j; k++){
-                    set.add(s.charAt(k));
-                }
+            if(j-i+1 == 3){
+                if(s.charAt(i) != s.charAt(i+1) 
+                && s.charAt(i+1) != s.charAt(i+2) && s.charAt(i+2) != s.charAt(i)) {
                 
-                if(set.size() == 3) count++;
+                    count++;
+                }
                 i++;
-                j++;
-            } 
+            }
+            j++;
         }
 
         return count;
