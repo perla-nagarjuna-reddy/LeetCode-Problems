@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3164-last-visited-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3164-last-visited-integers) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3188-find-champion-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3188-find-champion-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -926,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
@@ -1082,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
@@ -1140,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
