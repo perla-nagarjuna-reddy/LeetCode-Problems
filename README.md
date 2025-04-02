@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0697-degree-of-an-array) |
@@ -837,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
@@ -1112,10 +1114,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
