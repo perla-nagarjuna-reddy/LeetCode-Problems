@@ -11,7 +11,7 @@ class Solution {
         int max = 0;
 
         for(int i = 0 ; i  < n ; i++){
-            for(int prev = 0; prev < n; prev++){
+            for(int prev = 0; prev < i; prev++){
 
                 if(nums[prev] < nums[i] && 1 + dp[prev] > dp[i]){
                     dp[i] = 1 + dp[prev];
