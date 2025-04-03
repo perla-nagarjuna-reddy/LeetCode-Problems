@@ -5,6 +5,7 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
 
             int num = (26 - (s.charAt(i) - 'a')) * (i+1);
+            
             ans = ans + num;
 
         }
