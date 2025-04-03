@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3164-last-visited-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3164-last-visited-integers) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3188-find-champion-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3188-find-champion-i) |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
