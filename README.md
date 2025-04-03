@@ -551,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
+| [3811-reverse-degree-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
+| [3811-reverse-degree-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
