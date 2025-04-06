@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1488-sort-integers-by-the-power-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
@@ -854,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1162,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 ## Trie
 |  |
 | ------- |
