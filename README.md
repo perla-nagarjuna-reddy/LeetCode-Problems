@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -720,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2238-a-number-after-a-double-reversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2496-count-days-spent-together) |
@@ -1237,4 +1240,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
