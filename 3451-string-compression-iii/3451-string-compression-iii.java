@@ -21,7 +21,6 @@ class Solution {
             if(current != prev){
                 sb.append(count);
                 sb.append(prev);
-                prev = current;
                 count = 1;
             }
             else{
@@ -34,8 +33,10 @@ class Solution {
             }
             prev = current;
         }
-        sb.append(count);
-        sb.append(prev);
+        if(count != 0){
+            sb.append(count);
+            sb.append(prev);
+        }
         return sb.toString();
     }
 }
