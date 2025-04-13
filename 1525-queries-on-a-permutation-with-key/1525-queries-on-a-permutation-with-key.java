@@ -15,13 +15,12 @@ class Solution {
             int num = queries[i];
 
             int getPos = lst.indexOf(num);
-            
+
             ans[i] = getPos;
 
             int removedElement = lst.remove(getPos);
             lst.add(0,removedElement);
         }
-
 
         return ans;
     }
