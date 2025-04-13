@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1552-build-an-array-with-stack-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1708-design-parking-system) |
@@ -1163,6 +1165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Segment Tree
 |  |
 | ------- |
