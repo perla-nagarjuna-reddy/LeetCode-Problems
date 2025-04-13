@@ -1,25 +1,13 @@
 class Solution {
     public int[] findingUsersActiveMinutes(int[][] logs, int k) {
-        HashMap<Integer,List<Integer>> map = new HashMap<>();
+        HashMap<Integer,Set<Integer>> map = new HashMap<>();
 
         for(int i  = 0; i < logs.length; i++){
-
-            int[] temp = logs[i];
-
-            if(map.containsKey(temp[0])){
-                if(!map.get(temp[0]).contains(temp[1])){
-                   List<Integer> ls = map.get(temp[0]);
-
-                   ls.add(temp[1]);
-
-                   map.put(temp[0],ls);
-                }
-            }
-            else{
-                    List<Integer> temp1 = new ArrayList<>();
-                    temp1.add(temp[1]);
-                    map.put(temp[0],temp1);
-            }
+            int[] log = logs[i];
+            int userId = log[0];
+            int minute = log[1];
+            map.putIfAbsent(userId, new HashSet<>());
+            map.get(userId).add(minute);
         }
 
         int[] ans = new int[k];
@@ -30,7 +18,9 @@ class Solution {
 
             int val  = map.get(key).size();
 
-            ans[val - 1] = ans[val-1]+1;
+            if(val <= k){
+                ans[val - 1] = ans[val-1]+1;
+            }
         }
 
         return ans;
