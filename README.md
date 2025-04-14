@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -1227,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
