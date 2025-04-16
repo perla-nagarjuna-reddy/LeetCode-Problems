@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0018-4sum) |
@@ -770,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -864,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0055-jump-game) |
