@@ -557,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
