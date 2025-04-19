@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2631-sort-the-students-by-their-kth-score](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3334-apple-redistribution-into-boxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -511,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2698-find-the-array-concatenation-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2698-find-the-array-concatenation-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Heap (Priority Queue)
 |  |
