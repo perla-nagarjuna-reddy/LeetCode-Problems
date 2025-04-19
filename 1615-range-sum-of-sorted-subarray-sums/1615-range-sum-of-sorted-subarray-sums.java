@@ -10,15 +10,9 @@ class Solution {
        int[] arr = new int[val];
 
         for(int i = 0 ; i < n; i++){
-
+            int sum = 0;
             for(int  j = i; j < n; j++){
-
-                int sum = 0;
-                
-                for(int k = i; k <= j; k++){
-                    sum = (sum + nums[k]) % MOD;
-                }
-
+                sum = sum + nums[j];
                 arr[ind++] = sum;
             }
         }
@@ -30,7 +24,7 @@ class Solution {
         for(int i  = left - 1 ; i < right; i++){
             ans = (ans + arr[i]) % MOD;
         }
-        
+
         return ans;
     }
 }
