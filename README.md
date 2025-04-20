@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
@@ -1022,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -1314,4 +1316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
