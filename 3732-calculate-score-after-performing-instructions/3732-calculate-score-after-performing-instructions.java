@@ -29,7 +29,7 @@ class Solution {
                 i += values[i];
             }
             else {
-                break; 
+                throw new IllegalArgumentException("Invalid instruction: " + instructions[i]);
             }
         }
         return ans;
