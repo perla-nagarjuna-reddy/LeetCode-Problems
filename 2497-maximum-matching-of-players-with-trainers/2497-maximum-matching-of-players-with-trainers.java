@@ -1,30 +1,27 @@
 class Solution {
     public int matchPlayersAndTrainers(int[] players, int[] trainers) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
         Arrays.sort(players);
+        Arrays.sort(trainers);
 
-        for(int val : trainers){
-            pq.add(val);
-        }
+        int i = 0 ;
+        int j = 0;
 
-        int count = 0;
+        int ans  = 0;
 
-        for(int val : players){
+        while(i < players.length && j < trainers.length){
 
-            while (!pq.isEmpty() && pq.peek() < val) {
-                pq.poll();
-            }
-
-            if(!pq.isEmpty()){
-                pq.poll();
-                count++;
+            if(players[i] <= trainers[j]){
+                ans++;
+                i++;
+                j++;
             }
             else{
-                break;
+                j++;
             }
+            
         }
 
-        return count;
+        return ans;
     }
 }
