@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1511-count-number-of-teams](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1511-count-number-of-teams) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -931,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1488-sort-integers-by-the-power-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
+| [1511-count-number-of-teams](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
@@ -1219,12 +1221,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1511-count-number-of-teams](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1511-count-number-of-teams) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1511-count-number-of-teams](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1511-count-number-of-teams) |
 ## Ordered Set
 |  |
 | ------- |
