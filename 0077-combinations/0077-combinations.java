@@ -13,7 +13,6 @@ class Solution {
 
         if(res.size() == k){
             lst.add(new ArrayList<>(res));
-
             return;
         }
 
