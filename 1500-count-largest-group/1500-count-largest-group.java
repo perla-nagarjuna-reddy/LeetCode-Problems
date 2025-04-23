@@ -20,15 +20,18 @@ class Solution {
             map.computeIfAbsent(sum, k -> new ArrayList<>()).add(i);
         }
 
-        int maxSize = 0;
-        int count = 0;
+        List<Map.Entry<Integer, List<Integer>>> list = new ArrayList<>(map.entrySet());
 
-        for (List<Integer> group : map.values()) {
-            int size = group.size();
-            if (size > maxSize) {
-                maxSize = size;
-                count = 1;
-            } else if (size == maxSize) {
+        Collections.sort(list,(a,b) -> b.getValue().size() - a.getValue().size());
+
+
+        int size = list.get(0).getValue().size();
+
+        int count  = 0;
+
+        for(Map.Entry<Integer, List<Integer>> set : list){
+
+            if(set.getValue().size() == size){
                 count++;
             }
         }
