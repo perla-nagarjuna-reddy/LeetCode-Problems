@@ -762,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0504-base-7) |
@@ -930,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -1265,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
