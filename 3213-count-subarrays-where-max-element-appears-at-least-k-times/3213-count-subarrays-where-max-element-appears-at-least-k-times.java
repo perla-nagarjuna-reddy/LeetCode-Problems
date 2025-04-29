@@ -23,8 +23,8 @@ class Solution {
             }
 
             while (count >= k) {
-                
-                ans += nums.length - j;
+
+                // ans += nums.length - j;
                 if (nums[i] == max) {
                     count--;
                 }
@@ -32,6 +32,7 @@ class Solution {
             }
 
             j++;
+            ans += i;
         }
 
         return ans;
