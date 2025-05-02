@@ -13,6 +13,7 @@ class Solution {
             int max = arrays.get(i).get(arrays.get(i).size() - 1);
 
             int diff1 = Math.abs(max - mini);
+            
             int diff2 = Math.abs(ele - min);
 
             ans = Math.max(ans, Math.max(diff1, diff2));
