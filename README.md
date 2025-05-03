@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
@@ -978,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
