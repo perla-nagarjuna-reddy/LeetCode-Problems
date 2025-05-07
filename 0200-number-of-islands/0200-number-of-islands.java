@@ -1,4 +1,3 @@
-
 class Solution {
     public int numIslands(char[][] grid) {
         int n = grid.length;
