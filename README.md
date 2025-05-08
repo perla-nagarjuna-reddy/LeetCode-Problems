@@ -799,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1448-maximum-69-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
@@ -996,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1448-maximum-69-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
