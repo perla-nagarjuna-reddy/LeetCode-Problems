@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
