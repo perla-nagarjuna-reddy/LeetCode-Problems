@@ -42,9 +42,8 @@ class Solution {
         while (tail.next != null) {
             tail = tail.next;
         }
+
         tail.next = rightNext;
-        
-        leftNode.next = rightNext;
 
         return head;    
     
