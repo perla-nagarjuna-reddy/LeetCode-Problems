@@ -30,7 +30,7 @@ class Solution {
             else if(!isLower && Character.isLowerCase(ch)){
                 isLower = true;
             }
-            else if(!isSpecial && special.contains(String.valueOf(ch))){
+            else if(!isSpecial && (ch == 94 || ch == 63 || ch == 64 || (ch - '!' >= 0 && ch - '!' < 13))){
                 isSpecial = true;
             }
         }
