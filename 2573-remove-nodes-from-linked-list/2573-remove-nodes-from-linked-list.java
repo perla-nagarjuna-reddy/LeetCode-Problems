@@ -32,7 +32,6 @@ class Solution {
         }
 
         while(!st.isEmpty()){
-
             ListNode temp1 = st.pop();
             if(temp1 != null){
                 temp1.next = null;   
