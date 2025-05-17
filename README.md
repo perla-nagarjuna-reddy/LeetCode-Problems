@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0575-distribute-candies) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [1137-height-checker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1137-height-checker) |
@@ -810,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0504-base-7) |
+| [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1260-day-of-the-year) |
@@ -877,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0468-validate-ip-address](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0468-validate-ip-address) |
 | [0520-detect-capital](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0551-student-attendance-record-i) |
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
