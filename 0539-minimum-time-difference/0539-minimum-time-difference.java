@@ -20,8 +20,7 @@ class Solution {
         for(int i = 1 ; i < n; i++){
             ans = Math.min(ans, minArray[i] - minArray[i-1]);
         }
-
-
+        
         return Math.min(ans,Math.abs(minArray[0] + 1440 - minArray[n-1]));
     }
 }
