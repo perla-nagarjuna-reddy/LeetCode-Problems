@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0563-binary-tree-tilt) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0547-number-of-provinces) |
@@ -669,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -702,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0535-encode-and-decode-tinyurl](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1279,6 +1283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0969-number-of-recent-calls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -1463,4 +1468,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
