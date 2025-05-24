@@ -40,8 +40,11 @@ class Twitter {
     
     public List<Integer> getNewsFeed(int userId) {
         List<Integer> ans = new ArrayList<>();
+
         Set<Integer> followees = followMap.getOrDefault(userId, new HashSet<>());
+
         followees.add(userId); 
+        
         for (int i = allTweets.size() - 1; i >= 0 && ans.size() < 10; i--) {
             Tweet t = allTweets.get(i);
             if (followees.contains(t.userId)) {
