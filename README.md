@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3188-find-champion-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3188-find-champion-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3194-find-words-containing-character](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
@@ -952,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
