@@ -54,12 +54,6 @@ class Solution {
             }
         }
 
-
-        for(int[] arr : grid){
-            System.out.println(Arrays.toString(arr));
-        }
-
-
         int ans = 0;
 
         for(int i = 0; i < m; i++){
