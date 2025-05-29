@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -926,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1714-rearrange-spaces-between-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1714-rearrange-spaces-between-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -1078,6 +1080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1783-ways-to-make-a-fair-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1783-ways-to-make-a-fair-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
