@@ -878,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
+| [3055-maximum-odd-binary-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
@@ -972,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1075,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2715-k-items-with-the-maximum-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3055-maximum-odd-binary-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3151-minimum-processing-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
