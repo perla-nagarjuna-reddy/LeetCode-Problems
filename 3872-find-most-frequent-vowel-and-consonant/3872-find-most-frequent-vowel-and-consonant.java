@@ -6,9 +6,9 @@ class Solution {
             map.put(ch,map.getOrDefault(ch,0) + 1);
         }
 
-        int maxVowel = Integer.MIN_VALUE;
+        int maxVowel = 0;
 
-        int maxConso = Integer.MIN_VALUE;
+        int maxConso = 0;
 
         for(char ch : map.keySet()){
 
@@ -19,11 +19,6 @@ class Solution {
                 maxConso = Math.max(maxConso,map.get(ch));
             }
         }
-
-        if(maxVowel == Integer.MIN_VALUE) maxVowel = 0;
-
-        if(maxConso == Integer.MIN_VALUE) maxConso = 0;
-
         return maxVowel + maxConso;
     }
 }
