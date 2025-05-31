@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
@@ -1417,6 +1420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
