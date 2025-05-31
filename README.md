@@ -813,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -970,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3451-string-compression-iii) |
