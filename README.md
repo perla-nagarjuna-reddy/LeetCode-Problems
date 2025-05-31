@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -881,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
