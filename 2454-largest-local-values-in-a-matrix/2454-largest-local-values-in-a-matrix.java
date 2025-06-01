@@ -16,6 +16,7 @@ class Solution {
                     for(int m = j; m < j+3; m++){
                         max = Math.max(grid[k][m],max);
                     }
+                    
                 }
 
                 ans[i][j] = max;
