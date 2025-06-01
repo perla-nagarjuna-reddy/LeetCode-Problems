@@ -1,24 +1,14 @@
 class Solution {
     public int findCenter(int[][] edges) {
 
-        int n = edges.length;
-        HashMap<Integer,Integer> map = new HashMap<>();
-
-        for(int i = 0 ; i < edges.length; i++){
-
-            for(int j = 0; j < 2; j++){
-
-                map.put(edges[i][j],map.getOrDefault(edges[i][j],0)+1);
-            }
+        int pair1[] = edges[0];
+        int pair2[] = edges[1];
+        if(pair1[0] == pair2[0]|| pair1[0] == pair2[1]){
+            return pair1[0];
         }
-
-        for(int val : map.keySet()){
-
-            if(map.get(val) == n){
-                return val;
-            }
+        if(pair1[1] == pair2[0]|| pair1[1] == pair2[1]){
+            return pair1[1];
         }
-
-        return -1;
+        return 0;
     }
 }
