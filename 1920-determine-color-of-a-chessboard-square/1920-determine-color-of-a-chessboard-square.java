@@ -27,17 +27,5 @@ class Solution {
         }
 
         return false;
-
-
-
-        // for(char ch = 'a'; ch <= 'h'; ch++){
-
-        //     if(ch == 'a' || ch == 'c' || ch =='e' || ch == 'g'){
-
-        //         int num = coordinates.charAt(1) - '0';
-
-        //         if(num % 2 == 1) return false;
-        //     }
-        // }
     }
 }
