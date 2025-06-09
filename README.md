@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0978-valid-mountain-array) |
+| [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -932,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
+| [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1076,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0891-score-after-flipping-matrix) |
+| [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
