@@ -811,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -982,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2391-strong-password-checker-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2391-strong-password-checker-ii) |
 | [2401-count-asterisks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
@@ -1182,6 +1184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1268,6 +1271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
