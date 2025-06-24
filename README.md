@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2283-sort-even-and-odd-indices-independently](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
