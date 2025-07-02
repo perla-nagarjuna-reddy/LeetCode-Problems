@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0575-distribute-candies) |
@@ -939,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0468-validate-ip-address) |
+| [0500-keyboard-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
