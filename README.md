@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3817-maximum-containers-on-a-ship) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1212,6 +1214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1268,6 +1271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
