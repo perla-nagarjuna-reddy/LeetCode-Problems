@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2728-sum-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2728-sum-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3151-minimum-processing-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3151-minimum-processing-time) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2728-sum-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
@@ -677,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2698-find-the-array-concatenation-value) |
+| [2728-sum-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3164-last-visited-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3164-last-visited-integers) |
@@ -1185,6 +1189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2585-delete-greatest-value-in-each-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2728-sum-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3188-find-champion-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3188-find-champion-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
