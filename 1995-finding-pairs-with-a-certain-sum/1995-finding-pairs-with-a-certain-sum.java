@@ -33,17 +33,7 @@ class FindSumPairs {
     }
     
     public int count(int tot) {
-        // HashMap<Integer,Integer> map = new HashMap<>();
-
-        // for(int val : arr1){
-        //     map.put(tot - val,map.getOrDefault(tot - val,0)+1);
-        // }
-
-
         int ans = 0;
-
-        
-
         for(int val : arr1){
 
             int num = tot - val;
