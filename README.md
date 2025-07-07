@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1459-apply-discount-every-n-orders](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1459-apply-discount-every-n-orders) |
 | [1477-product-of-the-last-k-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1488-sort-integers-by-the-power-value) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -1119,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-split-a-string-in-balanced-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
