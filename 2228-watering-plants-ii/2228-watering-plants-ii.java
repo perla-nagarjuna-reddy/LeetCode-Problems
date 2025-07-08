@@ -13,7 +13,6 @@ class Solution {
 
         while(i <= j){
 
-
             if(i == j){
 
                 if (Math.max(capA, capB) < plants[i]) {
@@ -21,24 +20,19 @@ class Solution {
                 }
                 break;
             }
-
-            if(plants[i] <= capA){
-                capA = capA - plants[i];
-            }
-            else if (plants[i] > capA){
+            
+            if (plants[i] > capA){
                 total++;
                 capA = capacityA;
-                capA = capA - plants[i];
             }
+            capA -= plants[i];
 
-            if(plants[j] <= capB){
-                capB = capB - plants[j];
-            }
-            else if (plants[j] > capB){
+            if (plants[j] > capB){
                 total++;
                 capB = capacityB;
-                capB = capB - plants[j];
             }
+            capB -= plants[j];
+            
             i++;
             j--;
         }
