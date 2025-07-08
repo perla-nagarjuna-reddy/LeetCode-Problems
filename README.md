@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1310-watering-plants](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1310-watering-plants) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1310-watering-plants](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1310-watering-plants) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
