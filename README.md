@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0749-shortest-completing-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0777-toeplitz-matrix) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
@@ -799,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0697-degree-of-an-array) |
+| [0749-shortest-completing-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0749-shortest-completing-word) |
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
@@ -970,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0606-construct-string-from-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0677-map-sum-pairs) |
+| [0749-shortest-completing-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0749-shortest-completing-word) |
 | [0800-letter-case-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
