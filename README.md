@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0891-score-after-flipping-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -808,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
+| [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1044-find-common-characters) |
@@ -985,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
+| [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
