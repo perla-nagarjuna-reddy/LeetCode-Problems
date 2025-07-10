@@ -10,19 +10,19 @@ class Solution {
 
             int endInd = r[i];
 
-            List<Integer> lst = new ArrayList<>();
-
+            int[] arr = new int[endInd - startInd + 1];
+            int m  = 0;
             for(int j = startInd; j <= endInd; j++){
-                lst.add(nums[j]);
+                arr[m++] = nums[j];
             }
-            Collections.sort(lst);
+            Arrays.sort(arr);
 
-            int diff = lst.get(1) - lst.get(0);
+            int diff = arr[1] - arr[0];
 
             boolean isArithmetic = true;
 
-            for(int k = 1; k < lst.size() - 1; k++){
-                int diffOne = Math.abs(lst.get(k) - lst.get(k+1));
+            for(int k = 1; k < arr.length - 1; k++){
+                int diffOne = arr[k+1] - arr[k];
 
                 if(diff != diffOne){
                     isArithmetic = false;
