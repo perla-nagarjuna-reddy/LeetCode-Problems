@@ -21,7 +21,7 @@ class Solution {
 
             boolean isArithmetic = true;
 
-            for(int k = 2; k < lst.size() - 1; k++){
+            for(int k = 1; k < lst.size() - 1; k++){
                 int diffOne = Math.abs(lst.get(k) - lst.get(k+1));
 
                 if(diff != diffOne){
