@@ -16,8 +16,6 @@ class Solution {
             } 
         }
 
-        System.out.println(map);
-
         List<Map.Entry<String,Integer>> lst = new ArrayList<>(map.entrySet());
 
         lst.sort((a,b) ->{
