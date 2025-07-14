@@ -1,7 +1,6 @@
 class Solution {
     public int[][] sortMatrix(int[][] grid) {
         int n = grid.length;
-        // List<List<Integer>> fin = new ArrayList<>();
         for (int i = 0; i < n; i++) {
             List<Integer> lst = new ArrayList<>();
             int k = 0;
