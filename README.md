@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [0983-validate-stack-sequences](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
+| [0983-validate-stack-sequences](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1310-watering-plants](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1310-watering-plants) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0983-validate-stack-sequences](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
