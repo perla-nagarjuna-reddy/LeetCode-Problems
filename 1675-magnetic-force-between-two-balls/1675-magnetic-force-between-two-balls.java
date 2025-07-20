@@ -37,13 +37,9 @@ class Solution {
                 count++;
 
                 prevPlaced = position[i];
-
-                if(count >= balls){
-                    return true;
-                }
             }
         }
 
-        return false;
+        return count >= balls ? true :false;
     }
 }
