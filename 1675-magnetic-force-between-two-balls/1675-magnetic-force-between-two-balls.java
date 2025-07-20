@@ -6,7 +6,7 @@ class Solution {
         int low = 1;
 
         int high = position[position.length - 1] - position[0];
-        
+
         int ans = 0;
 
         while(low <= high){
