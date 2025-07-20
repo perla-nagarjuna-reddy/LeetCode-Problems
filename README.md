@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2169-simple-bank-system) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
@@ -1194,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
