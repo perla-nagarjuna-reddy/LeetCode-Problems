@@ -31,15 +31,11 @@ class Solution {
 
     public boolean canPlaceProducts(int[] arr, int maxDist,int n){
 
-        int count = 0;
-
-        for(int i = 0 ; i < arr.length; i++){
-
-            count += (int) Math.ceil((double) arr[i] / maxDist);
+        int noOfStore=0;
+        for(int num:arr){
+            noOfStore+=(num/maxDist);
+            noOfStore+=num%maxDist!=0?1:0;
         }
-
-        if(count <= n) return true;
-
-        return false;
+        return n >=noOfStore;
     }
 }
