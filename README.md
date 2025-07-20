@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1656-count-good-triplets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1675-magnetic-force-between-two-balls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1675-magnetic-force-between-two-balls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
