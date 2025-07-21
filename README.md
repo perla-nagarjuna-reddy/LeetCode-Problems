@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1310-watering-plants](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1310-watering-plants) |
 | [1333-sort-the-jumbled-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
