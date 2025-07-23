@@ -775,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1197,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
