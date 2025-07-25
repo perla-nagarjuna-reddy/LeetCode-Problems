@@ -500,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
@@ -923,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3707-find-the-most-common-response](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3707-find-the-most-common-response) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -1219,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3151-minimum-processing-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
