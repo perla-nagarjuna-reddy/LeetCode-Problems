@@ -11,9 +11,7 @@ class Solution {
                     for(int k = i; k <= j; k++){
                         sum = sum + arr[k];
                     }
-                }
-
-                
+                }   
             }
 
         }
