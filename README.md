@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -966,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1761-count-sorted-vowel-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
@@ -1243,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1783-ways-to-make-a-fair-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1783-ways-to-make-a-fair-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
