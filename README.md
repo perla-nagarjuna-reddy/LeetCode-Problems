@@ -898,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2226-rings-and-rods) |
@@ -1089,6 +1090,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2226-rings-and-rods](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2232-adding-spaces-to-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
