@@ -6,10 +6,10 @@ class Solution {
 
         for(int i = 0; i < words.size(); i++){
 
-            String[] arr = words.get(i).split(Pattern.quote(String.valueOf(separator)));
+            String[] arr = words.get(i).split("\\"+separator);
 
             for(String st : arr){
-                if(st.length() > 0){
+                if(!st.isEmpty()){
                     ans.add(st);
                 }
             }
