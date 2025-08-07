@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2881-split-strings-by-separator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1119,6 +1120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
