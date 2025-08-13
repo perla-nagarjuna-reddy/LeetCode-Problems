@@ -754,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
@@ -1139,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3451-string-compression-iii) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3707-find-the-most-common-response](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3707-find-the-most-common-response) |
 | [3797-design-spreadsheet](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
