@@ -7,6 +7,7 @@ class Solution {
     }
 
     boolean isPower(Long n,int target){
+        
         if(n > target){
             return false;
         }
