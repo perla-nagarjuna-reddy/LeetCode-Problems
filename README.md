@@ -959,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
@@ -1319,6 +1320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
@@ -1400,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
