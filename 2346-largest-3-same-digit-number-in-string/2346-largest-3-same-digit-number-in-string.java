@@ -22,8 +22,6 @@ class Solution {
 
                 sb.append(num.substring(start,end+1));
 
-                System.out.println(sb.toString());
-
                 if(sb.charAt(0) != sb.charAt(1) || sb.charAt(1) != sb.charAt(2)){
                     start++;
                 }
