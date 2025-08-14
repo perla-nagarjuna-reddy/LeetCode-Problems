@@ -1105,6 +1105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2365-percentage-of-letter-in-string) |
 | [2373-apply-discount-to-prices](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2373-apply-discount-to-prices) |
