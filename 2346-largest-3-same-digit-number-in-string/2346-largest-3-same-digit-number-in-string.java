@@ -1,43 +1,52 @@
 class Solution {
     public String largestGoodInteger(String num) {
 
-        int start = 0;
+        // int start = 0;
 
-        int end = 0;
+        // int end = 0;
 
-        int lastNum = 0;
+        // int lastNum = 0;
 
-        String ans = "";
+        // String ans = "";
 
-        while(end < num.length()){
+        // while(end < num.length()){
 
-            if((end - start + 1) < 3){
-                end++;
-                continue;
+        //     if((end - start + 1) < 3){
+        //         end++;
+        //         continue;
+        //     }
+
+        //     if((end - start + 1) == 3){
+
+        //         StringBuilder sb = new StringBuilder();
+
+        //         sb.append(num.substring(start,end+1));
+
+        //         if(sb.charAt(0) != sb.charAt(1) || sb.charAt(1) != sb.charAt(2)){
+        //             start++;
+        //         }
+        //         else{
+        //             int nu = sb.charAt(0) - 48;
+        //             if(nu >= lastNum){
+        //                 ans = sb.toString();
+        //                 lastNum = nu;
+        //             }
+        //             start = end;
+        //         }
+        //         end++;
+        //     }
+
+        // }
+
+        // return ans;
+
+        String[] numbers={"999","888","777","666","555","444","333","222","111","000"};
+        for(String i:numbers){
+            if(num.contains(i)){
+                return i;
             }
-
-            if((end - start + 1) == 3){
-
-                StringBuilder sb = new StringBuilder();
-
-                sb.append(num.substring(start,end+1));
-
-                if(sb.charAt(0) != sb.charAt(1) || sb.charAt(1) != sb.charAt(2)){
-                    start++;
-                }
-                else{
-                    int nu = sb.charAt(0) - 48;
-                    if(nu >= lastNum){
-                        ans = sb.toString();
-                        lastNum = nu;
-                    }
-                    start = end;
-                }
-                end++;
-            }
-
         }
+        return "";
 
-        return ans;
     }
 }
