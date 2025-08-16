@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -1198,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1225,6 +1227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
