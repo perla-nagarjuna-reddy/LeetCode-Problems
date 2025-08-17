@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -856,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0575-distribute-candies) |
@@ -971,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0504-base-7) |
+| [0523-continuous-subarray-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -1266,6 +1269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0724-find-pivot-index) |
