@@ -8,7 +8,7 @@ class Solution {
         }
 
         int totalTime = 0;
-        
+
         totalTime+=calculateTimeForCollecting(garbage,preTime,'G');
         totalTime+=calculateTimeForCollecting(garbage,preTime,'M');
         totalTime+=calculateTimeForCollecting(garbage,preTime,'P');
