@@ -121,7 +121,7 @@ class Solution {
                     }
                 }
                 else if(numb < 50){
-                    System.out.println(numb);
+                 
                     if(numb == 10){
                         sb.append(map.get(numb));
                     }
