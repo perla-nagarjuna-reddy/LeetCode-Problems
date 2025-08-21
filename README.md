@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
+| [2411-spiral-matrix-iv](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -741,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
+| [2411-spiral-matrix-iv](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -1328,6 +1330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2411-spiral-matrix-iv](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -1415,6 +1418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
