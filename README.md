@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
