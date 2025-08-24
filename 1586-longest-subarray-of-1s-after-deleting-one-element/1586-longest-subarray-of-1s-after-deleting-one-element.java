@@ -10,13 +10,14 @@ class Solution {
 
         while (j < nums.length) {
             if (nums[j] == 0) {
-                count++;
+            
                 if (!first_zero) {
                     first_zero = true;
                 } else {
+                    // just calculate ans whenever it hits 2nd zero and initialize count to 1 as we already reached the 2nd zero;
                     ans = Math.max(ans, (j - i - 1)); 
                     i = last_index_i + 1;
-                    count = 1;
+                    
                 }
                 last_index_i = j; 
             }
