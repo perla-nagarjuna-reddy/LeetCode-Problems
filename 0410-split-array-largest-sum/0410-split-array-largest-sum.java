@@ -1,13 +1,13 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
         
-        int min = 0;
+        int min = Integer.MIN_VALUE;
 
         int sum = 0;
 
         for(int val : nums){
             sum+=val;
-            min = Math.min(val,min);
+            min = Math.max(val,min);
         }
 
         int low = min;
@@ -29,21 +29,22 @@ class Solution {
         return low;
     }
 
-    public boolean canSplit(int[] nums, int largeSum, int k){
+    public boolean canSplit(int[] arr, int largeSum, int k){
 
-        int count = 1;
+        int totalSum = 0;
 
-        int sum = 0;
+        int subArray = 1;
 
-        for(int i = 0; i < nums.length; i++){
-            sum = sum + nums[i];
-
-            if(sum > largeSum){
-                count++;
-                sum = nums[i];
+        for(int i=0;i<arr.length;i++){
+            if(totalSum + arr[i] <= largeSum){
+                totalSum+=arr[i];
+            }
+            else{
+                subArray++;
+                totalSum = arr[i];
             }
         }
 
-        return count > k;
+        return subArray > k;
     }
 }
