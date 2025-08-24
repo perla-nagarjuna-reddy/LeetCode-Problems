@@ -19,10 +19,11 @@ class Solution {
 
             if(canSplit(nums, mid, k)){
                 
-                low = mid + 1;
+            //    ans = mid;
+               high = mid - 1;
             }
             else{
-                high = mid  - 1;
+                low = mid  + 1;
             }
         }
 
@@ -45,6 +46,6 @@ class Solution {
             }
         }
 
-        return subArray > k;
+        return subArray <= k;
     }
 }
