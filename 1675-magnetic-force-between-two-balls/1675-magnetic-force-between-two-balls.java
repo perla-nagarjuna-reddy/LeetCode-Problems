@@ -40,6 +40,6 @@ class Solution {
             }
         }
 
-        return count >= balls ? true :false;
+        return count >= balls;
     }
 }
