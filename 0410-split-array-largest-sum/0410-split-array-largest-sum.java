@@ -1,41 +1,49 @@
 class Solution {
-    public int splitArray(int[] a, int k) {
-        int min = Integer.MIN_VALUE;
+    public int splitArray(int[] nums, int k) {
+        
+        int min = 0;
+
         int sum = 0;
-        for(int i=0;i<a.length;i++){
-            min = Math.max(min, a[i]);
-            sum+=a[i];
+
+        for(int val : nums){
+            sum+=val;
+            min = Math.min(val,min);
         }
 
         int low = min;
         int high = sum;
 
-        while(low<=high){
-            int mid = (low+high) / 2;
-            if(noOStudents(a,mid) > k){
-                low = mid+1;
+        while(low <= high){
+
+            int mid = low + (high - low) / 2;
+
+            if(canSplit(nums, mid, k)){
+                
+                low = mid + 1;
             }
             else{
-                high = mid-1;
+                high = mid  - 1;
             }
         }
 
         return low;
     }
-    static int noOStudents(int arr[],int val){
-        int totalSum = 0;
-        int subArray = 1;
 
-        for(int i=0;i<arr.length;i++){
-            if(totalSum + arr[i] <= val){
-                totalSum+=arr[i];
-            }
-            else{
-                subArray++;
-                totalSum = arr[i];
+    public boolean canSplit(int[] nums, int largeSum, int k){
+
+        int count = 1;
+
+        int sum = 0;
+
+        for(int i = 0; i < nums.length; i++){
+            sum = sum + nums[i];
+
+            if(sum > largeSum){
+                count++;
+                sum = nums[i];
             }
         }
 
-        return subArray; 
+        return count > k;
     }
 }
