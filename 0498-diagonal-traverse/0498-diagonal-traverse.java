@@ -6,7 +6,7 @@ class Solution {
 
         int[] res = new int[m * n];
         int ind = 0;
-        
+
         for (int i = 0; i < m; i++) {
             int col = 0;
             int row = i;
@@ -28,9 +28,10 @@ class Solution {
         }
 
         for (int i = 1; i < n; i++) {
-           int row = m - 1, col = i;
+            int row = m-1;
+            int col = i;      
             ArrayList<Integer> ans = new ArrayList<>();
-            while (row >= 0 && col < n) {
+            while (row >=0 && col < n) {
                 ans.add(mat[row][col]);
                 row--; col++;
             }
