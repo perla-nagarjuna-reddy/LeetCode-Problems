@@ -1,5 +1,6 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
+        
         int max = Integer.MIN_VALUE;
         for(int val : nums){
             max = Math.max(val,max);
@@ -8,27 +9,35 @@ class Solution {
         int low = 1;
         int high = max;
 
-        while(low<=high){
-            int mid = (low+high)/2;
-            int val = findingThreshold(nums,mid);
-            if(val <= threshold){
-                high = mid-1;
+
+        while(low <= high){
+
+            int mid = low + (high - low) / 2;
+
+            if(canDivisible(nums, mid,threshold)){
+                high = mid - 1;
             }
             else{
                 low = mid + 1;
             }
         }
-
         return low;
     }
-    public int findingThreshold(int[] nums,int mid){
+
+    public boolean canDivisible(int[] nums, int divisor, int threshold){
+
         int sum = 0;
 
-        for(int i=0;i<nums.length;i++){
-            sum+=Math.ceil((double)nums[i]/(double)mid);
+        for(int num :  nums){
+
+            sum = sum + (int)Math.ceil(((double)num/divisor));
+
+            if(sum > threshold) return false;
         }
 
-        return sum;
-
+        return true;
+        
     }
+
+  
 }
