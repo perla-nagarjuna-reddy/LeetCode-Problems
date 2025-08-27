@@ -1,44 +1,50 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int maxCapacity = 0;
+
+        int sum = 0;
+
         int max = 0;
-        for(int val : weights){
-            maxCapacity+=val;
-            max = Math.max(val,max);
+
+        for (int weight : weights){
+            sum += weight;
+            max = Math.max(weight,max);
         }
 
         int low = max;
-        int high = maxCapacity;
+
+        int high = sum;
 
         while(low <= high){
-            int mid = low+(high-low)/2;
-            int totalDays = findingTotalDays(weights,mid);
-            // System.out.println(mid+" "+totalDays);
-            if(totalDays <= days){
-                high = mid-1;
-                System.out.println("After one operation");
+
+            int mid = low + (high - low) / 2;
+
+            if(canShip(weights,mid,days)){
+                high = mid - 1;
             }
             else{
-                low = mid+1;
-                System.out.println("After one operation");
+                low = mid + 1;
             }
         }
 
         return low;
     }
 
-    public int findingTotalDays(int[] weights,int cap){
-        long sum = 0;
-        int noOfdays = 1;
-        System.out.println(cap);
-        for(int i=0;i<weights.length;i++){
-            sum+=weights[i];
-            if(sum > cap){
-                noOfdays++;
-                sum = weights[i];
+    public boolean canShip(int[] arr, int capacity,int days){
+
+        int totalWeight = 0;
+
+        int noOfDays = 1;
+
+        for(int i = 0 ; i < arr.length; i++){
+
+            totalWeight += arr[i];
+
+            if(totalWeight > capacity){
+                noOfDays++;
+                totalWeight = arr[i];
             }
         }
 
-        return noOfdays;
+        return noOfDays <= days;
     }
 }
