@@ -29,10 +29,8 @@ class Solution {
             double gain = newRatio - currentRatio;
             pq.add(new Pair(gain, i));
         }
-        for (Pair pair : pq) {
-            System.out.println(pair.avg);
-        }
-
+        
+        
         double ans = 0.0;
         for (int[] arr : classes) {
             ans += (double) arr[0] / arr[1];
