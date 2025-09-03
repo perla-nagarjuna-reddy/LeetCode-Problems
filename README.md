@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3151-minimum-processing-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3151-minimum-processing-time) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
@@ -1054,6 +1056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3055-maximum-odd-binary-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -1692,6 +1695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Rolling Hash
 |  |
@@ -1770,5 +1774,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
