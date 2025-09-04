@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2476-check-distances-between-same-letters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2476-check-distances-between-same-letters) |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -726,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1328,6 +1331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1577,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -1602,6 +1607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -1611,6 +1617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 ## Union Find
 |  |
 | ------- |
