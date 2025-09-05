@@ -37,6 +37,7 @@ class Solution {
             while (!deque.isEmpty() && chargeTimes[deque.peekLast()] <= chargeTimes[i]) {
                 deque.pollLast();
             }
+            
             deque.offerLast(i);
 
             runningSum += runningCosts[i];
