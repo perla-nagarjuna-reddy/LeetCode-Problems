@@ -4,6 +4,14 @@ class Solution {
 
         int[] ans = new int[queries.length];
 
+        int[] preSum = new int[nums.length];
+
+        preSum[0] = nums[0];
+
+        for(int i = 1; i < nums.length; i++){
+            preSum[i] = preSum[i - 1] + nums[i];
+        }
+
         for(int i = 0; i < queries.length; i++){
 
             int low = 0;
@@ -16,9 +24,7 @@ class Solution {
 
                 int mid = low + (high - low) / 2;
 
-                int sum = getSum(nums,mid);
-
-                if(sum <= queries[i]){
+                if(preSum[mid] <= queries[i]){
                     res = mid;
                     low = mid + 1;
                 }
@@ -31,16 +37,5 @@ class Solution {
         }
 
         return ans;
-    }
-
-    public int getSum(int[] nums, int ind){
-
-        int sum = 0;
-
-        for(int i = 0; i <= ind; i++){
-            sum+=nums[i];
-        }
-
-        return sum;
     }
 }
