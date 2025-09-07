@@ -2,7 +2,6 @@ class Solution {
     public int minOperations(String s) {
         
         int ans = 0;
-        boolean found = false;
         
         for (char ch : s.toCharArray()) {
 
