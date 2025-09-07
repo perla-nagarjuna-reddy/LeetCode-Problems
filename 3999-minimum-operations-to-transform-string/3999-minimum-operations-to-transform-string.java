@@ -1,15 +1,20 @@
 class Solution {
     public int minOperations(String s) {
         
-        int minSteps = 0;
+        int ans = 0;
+        boolean found = false;
         
         for (char ch : s.toCharArray()) {
 
-            int steps = (26 + ('a' - ch)) % 26;
+            if(ch != 'a'){
 
-            minSteps = Math.max(minSteps, steps);
+                int total = ('z' - ch) + 1;
+
+                ans = Math.max(ans,total);
+            }
+            
         }
         
-        return minSteps;
+        return ans;
     }
 }
