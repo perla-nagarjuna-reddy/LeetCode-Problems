@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1459-apply-discount-every-n-orders](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1459-apply-discount-every-n-orders) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -1378,6 +1380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-subrectangle-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
