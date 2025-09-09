@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0891-score-after-flipping-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
+| [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1137-height-checker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -917,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0835-linked-list-components](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
+| [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
