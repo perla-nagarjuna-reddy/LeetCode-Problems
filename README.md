@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -950,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -1309,6 +1311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1829-maximum-units-on-a-truck) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
