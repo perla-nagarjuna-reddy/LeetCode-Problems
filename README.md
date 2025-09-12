@@ -1092,6 +1092,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1222,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3707-find-the-most-common-response](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3707-find-the-most-common-response) |
@@ -1794,11 +1796,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3462-vowels-game-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
 | ------- |
