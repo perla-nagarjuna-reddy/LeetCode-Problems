@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2442-number-of-arithmetic-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1073,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2298-count-integers-with-even-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
@@ -1329,6 +1332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
