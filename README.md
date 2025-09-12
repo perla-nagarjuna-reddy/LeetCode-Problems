@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0777-toeplitz-matrix) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0824-number-of-lines-to-write-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
 | [0835-linked-list-components](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0835-linked-list-components) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -699,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0908-middle-of-the-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
@@ -735,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
