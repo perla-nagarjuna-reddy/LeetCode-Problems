@@ -6,10 +6,10 @@ class Solution {
         for(char ch : s.toCharArray()){
 
             if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
-                vowelCount++;
+                return  true;
             }
         }
 
-        return vowelCount > 0 ? true : false;
+        return false;
     }
 }
