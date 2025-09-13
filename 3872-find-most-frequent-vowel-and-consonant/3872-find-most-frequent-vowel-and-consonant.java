@@ -19,6 +19,7 @@ class Solution {
                 maxConso = Math.max(maxConso,map.get(ch));
             }
         }
+        
         return maxVowel + maxConso;
     }
 }
