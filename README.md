@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2329-maximum-product-after-k-increments) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2386-min-max-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2386-min-max-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -990,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2406-decode-the-message](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -1379,6 +1383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -1705,6 +1710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
 ## Backtracking
 |  |
