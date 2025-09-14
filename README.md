@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [0983-validate-stack-sequences](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1006-vowel-spellchecker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
@@ -947,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
@@ -1157,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1006-vowel-spellchecker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
