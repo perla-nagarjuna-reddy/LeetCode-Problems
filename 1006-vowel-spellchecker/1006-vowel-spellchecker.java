@@ -22,10 +22,6 @@ class Solution {
 
         }
 
-        System.out.println(set);
-        System.out.println(caseInsensitive);
-        System.out.println(masked);
-
         String[] ans = new String[queries.length];
 
 
