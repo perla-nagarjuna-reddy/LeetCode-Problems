@@ -15,9 +15,7 @@ class Solution {
             
             caseInsensitive.putIfAbsent(word.toLowerCase(),word);
 
-            String mask = word.toLowerCase().replaceAll("[aeiou]", "*");
-
-            masked.putIfAbsent(mask, word);
+            masked.putIfAbsent(vmask(word.toLowerCase()), word);
 
 
         }
@@ -42,5 +40,15 @@ class Solution {
             }
         }
         return ans;
+    }
+
+    public String vmask(String str) {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < str.length(); i++) {
+            char c = str.charAt(i);
+            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') c = '*';
+            sb.append(c);
+        }
+        return sb.toString();
     }
 }
