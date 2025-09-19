@@ -21,7 +21,6 @@ class Spreadsheet {
         return val1 + val2;
     }
 
-    // Helper method to check if a string is a number
     private boolean isNumeric(String s) {
         try {
             Integer.parseInt(s);
