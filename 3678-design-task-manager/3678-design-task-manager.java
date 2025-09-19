@@ -1,4 +1,5 @@
 class TaskManager {
+
     private static class Task {
         int userId;
         int taskId;
@@ -15,6 +16,7 @@ class TaskManager {
     private Map<Integer, Task> taskMap;
 
     public TaskManager(List<List<Integer>> tasks) {
+        
         taskMap = new HashMap<>();
 
         taskSet = new TreeSet<>((a, b) -> {
