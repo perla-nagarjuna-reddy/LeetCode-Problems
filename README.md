@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2023-design-movie-rental-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -763,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1879-maximum-score-from-removing-stones](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1708-design-parking-system) |
 | [1775-design-an-ordered-stream](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2169-simple-bank-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3678-design-task-manager) |
@@ -989,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2023-design-movie-rental-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2159-two-out-of-three](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2159-two-out-of-three) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
@@ -1723,6 +1727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
+| [2023-design-movie-rental-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2161-stock-price-fluctuation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2161-stock-price-fluctuation) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2447-merge-similar-items](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2447-merge-similar-items) |
