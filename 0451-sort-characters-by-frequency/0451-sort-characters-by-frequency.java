@@ -1,13 +1,3 @@
-class Pair{
-    char ch;
-    int count;
-
-    public Pair(char ch, int count){
-        this.ch = ch;
-        this.count = count;
-    }
-}
-
 class Solution {
     public String frequencySort(String s) {
         HashMap<Character,Integer> map = new HashMap<>();
