@@ -525,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3221-find-the-peaks](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1032,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -1581,6 +1583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3707-find-the-most-common-response) |
 | [3778-transform-array-by-parity](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
