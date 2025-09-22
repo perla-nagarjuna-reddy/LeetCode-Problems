@@ -7,16 +7,13 @@ class Solution {
 
         for(int i = 0 ; i < s.length(); i++){
 
+            int[] freq = new int[26];
+
             for(int j = i; j < s.length(); j++){
 
-                String str = s.substring(i,j+1);
-
-                int[] freq = new int[26];
-
-                for(char ch : str.toCharArray()){
-
-                    freq[ch - 'a']++;
-                }
+                int ch  = s.charAt(j);
+                
+                freq[ch - 'a']++;
 
                 int min = Integer.MAX_VALUE;
 
