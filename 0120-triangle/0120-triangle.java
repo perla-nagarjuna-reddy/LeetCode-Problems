@@ -1,30 +1,18 @@
 class Solution {
+    private Integer[][] memo;
     public int minimumTotal(List<List<Integer>> triangle) {
-        int n = triangle.size();
-        int[][] dp = new int[n][n];
+	int n = triangle.size();
+	memo = new Integer[n][n];
+	return dfs(0, 0, triangle);
+}
 
-        for(int i = 0; i < n ; i++){
-            for(int j = 0 ; j < n ; j++){
-                dp[i][j] = -1;
-            }
-        }
-        return solve(0,0,triangle,dp);
-    }
+private int dfs(int level, int i, List<List<Integer>> triangle) {
+	if (memo[level][i] != null) return memo[level][i];
 
-    int solve(int row, int col, List<List<Integer>> triangle,int[][] dp){
+	int path = triangle.get(level).get(i);
+	if (level < triangle.size() - 1) 
+		path += Math.min(dfs(level + 1, i, triangle), dfs(level + 1, i + 1, triangle));
 
-        if(row == triangle.size() - 1){
-            return triangle.get(row).get(col);
-        }
-
-        if(dp[row][col] != -1){
-            return dp[row][col];
-        }
-
-        int down = triangle.get(row).get(col) + solve(row+1,col,triangle,dp);
-
-        int diagonal = triangle.get(row).get(col) + solve(row+1,col+1,triangle,dp);
-
-        return dp[row][col] = Math.min(diagonal,down);
-    }
+	return memo[level][i] = path;
+}
 }
