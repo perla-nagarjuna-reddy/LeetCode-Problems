@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1006-vowel-spellchecker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1036-rotting-oranges) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1018-largest-perimeter-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1222-remove-covered-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1222-remove-covered-intervals) |
@@ -1083,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0830-largest-triangle-area](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1260-day-of-the-year) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
@@ -1365,6 +1368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
