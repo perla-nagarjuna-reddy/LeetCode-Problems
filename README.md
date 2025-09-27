@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0824-number-of-lines-to-write-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0829-subdomain-visit-count](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0829-subdomain-visit-count) |
+| [0830-largest-triangle-area](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
@@ -1080,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
+| [0830-largest-triangle-area](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1260-day-of-the-year) |
@@ -1895,6 +1897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [1395-minimum-time-visiting-all-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
