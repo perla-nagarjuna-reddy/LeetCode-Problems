@@ -7,6 +7,7 @@ class Solution {
         }
 
         while(lst.size() != 1){
+            
             List<Integer> temp  = new ArrayList<>();
 
             for(int i = 0 ; i < lst.size() - 1; i++){
