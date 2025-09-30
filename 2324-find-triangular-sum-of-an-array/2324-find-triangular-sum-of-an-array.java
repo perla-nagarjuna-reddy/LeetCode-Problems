@@ -1,27 +1,13 @@
 class Solution {
     public int triangularSum(int[] nums) {
-        List<Integer> lst = new ArrayList<>();
+        return func(nums, nums.length);
+    }
 
-        for(int num : nums){
-            lst.add(num);
+    private int func(int[] arr, int n){
+        if(n==1) return arr[0];
+        for(int i=0;i<n-1;i++){
+            arr[i]=(arr[i]+arr[i+1]) %10; 
         }
-
-        while(lst.size() != 1){
-            
-            List<Integer> temp  = new ArrayList<>();
-
-            for(int i = 0 ; i < lst.size() - 1; i++){
-                int sum = lst.get(i) + lst.get(i+1);
-
-                if(sum > 9){
-                    sum = sum % 10;
-                }
-                temp.add(sum);
-            }
-
-            lst = temp;
-        }
-
-        return lst.get(0);
+        return func(arr, n-1);
     }
 }
