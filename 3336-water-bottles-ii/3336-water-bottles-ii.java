@@ -7,7 +7,6 @@ class Solution {
 
 
         while(empty >= numExchange){
-
             int newB = 1;
             drunk+=newB;
             empty = empty - numExchange + 1;
