@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
@@ -1401,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2756-buy-two-chocolates](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3055-maximum-odd-binary-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3151-minimum-processing-time) |
