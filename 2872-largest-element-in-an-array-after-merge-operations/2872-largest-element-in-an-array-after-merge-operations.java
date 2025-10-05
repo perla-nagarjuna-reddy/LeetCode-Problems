@@ -3,9 +3,7 @@ class Solution {
 
         long sum = 0;
 
-        long[] arr = Arrays.stream(nums)
-                            .asLongStream()
-                            .toArray();
+        long[] arr = Arrays.stream(nums).asLongStream().toArray();
 
 
         for(int  i = arr.length - 1; i >= 0 ; i--){
