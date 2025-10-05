@@ -1,22 +1,20 @@
 class Solution {
     public long maxArrayValue(int[] nums) {
 
-        long sum = 0;
+        long ans = nums[nums.length - 1];
 
-        long[] arr = Arrays.stream(nums).asLongStream().toArray();
+        long res = 0;
 
-
-        for(int  i = arr.length - 1; i >= 0 ; i--){
-
-            if(i-1 >= 0 && arr[i-1] <= arr[i]){
-                arr[i-1]+=arr[i];
+        for (int i = nums.length - 2; i >= 0; i--) {
+            if (nums[i] <= ans) {
+                ans += nums[i];
+            } else {
+                ans = nums[i];
             }
+            res = Math.max(res,ans);
         }
 
-        for(long ele : arr){
-            sum = Math.max(sum,ele);
-        }
+        return ans;
 
-        return sum;
     }
 }
