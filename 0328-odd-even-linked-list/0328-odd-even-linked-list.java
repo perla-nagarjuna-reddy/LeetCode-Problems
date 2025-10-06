@@ -10,42 +10,55 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if(head == null || head.next == null) return head;
-        ListNode odd = head;
-        ListNode even = head.next;
-        ListNode evenHead = head.next;
 
-        while(even != null && even.next != null){
-            odd.next = odd.next.next;
-            even.next = even.next.next;
-            odd = odd.next;
-            even = even.next;
+        if(head == null) return null;
+        
+        ListNode dummy = new ListNode(-1);
+
+        ListNode point = null;
+
+        dummy.next = point;
+
+        point = dummy;
+
+
+        ListNode dummy1 = new ListNode(-1);
+
+        ListNode point1 = null;
+
+        dummy1.next = point1;
+
+        point1 = dummy1;
+
+
+        ListNode curr = head;
+
+        ListNode curr1 = head.next;
+
+
+        while(curr != null){
+
+            point.next = curr;
+
+            point = curr;
+
+            point1.next = curr1;
+
+            point1 = curr1;
+
+            if(curr.next == null || curr.next.next == null){
+                break;
+            }
+            else{
+                curr = curr.next.next;
+                curr1 = curr1.next.next;
+            }
+
         }
 
-        odd.next = evenHead;
-        return head;
+        dummy = dummy.next;
+        curr.next = dummy1.next;
+        return dummy;
+
     }
 }
-
-// ListNode oddNode = new ListNode(-1);
-//         ListNode evenNode = new ListNode(-1);
-//         ListNode current1 = oddNode;
-//         ListNode current2 = evenNode;
-//         ListNode temp = head;
-//         int count = 1;
-//         while(temp != null){
-//             if(count % 2 == 1){
-//                 ListNode node = new ListNode(temp.val);
-//                 current1.next = node;
-//                 current1 = node;
-//             }
-//             else{
-//                 ListNode node = new ListNode(temp.val);
-//                 current2.next = node;
-//                 current2 = node;
-//             }
-//             temp = temp.next;
-//             count++;
-//         }
-//         current1.next = evenNode.next;
-//         return oddNode.next;
