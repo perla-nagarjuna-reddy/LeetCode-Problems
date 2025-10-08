@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0837-most-common-word) |
+| [0853-most-profit-assigning-work](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0898-transpose-matrix) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0807-custom-sort-string) |
+| [0853-most-profit-assigning-work](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0853-most-profit-assigning-work](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -737,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0853-most-profit-assigning-work](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
 | [1028-interval-list-intersections](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1028-interval-list-intersections) |
@@ -1375,6 +1379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0853-most-profit-assigning-work](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0891-score-after-flipping-matrix) |
 | [0979-di-string-match](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0979-di-string-match) |
