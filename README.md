@@ -543,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3429-special-array-i) |
@@ -1447,6 +1448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
