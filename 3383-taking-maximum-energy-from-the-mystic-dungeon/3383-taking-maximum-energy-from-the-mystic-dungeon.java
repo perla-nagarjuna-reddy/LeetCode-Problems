@@ -11,8 +11,11 @@ class Solution {
             for(int j = i+k; j < energy.length;j=j+k){
 
                 if(preSum < 0){
+
                     preSum = energy[j];
+                    
                 }
+
                 else{
                     preSum += energy[j];
                 }
