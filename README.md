@@ -1168,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3817-maximum-containers-on-a-ship](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -1832,6 +1833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-smallest-even-multiple](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
