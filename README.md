@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1731-even-odd-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1240,6 +1242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-destination-city](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1547-destination-city) |
 | [1714-rearrange-spaces-between-words](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1839,6 +1842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
