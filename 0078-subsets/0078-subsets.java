@@ -1,20 +1,28 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
+        
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> res = new ArrayList<>();
-        int n = nums.length;
-        findAllSubsets(nums,0,n,res,ans);
+
+        List<Integer> res =  new ArrayList<>(); 
+
+        solve(nums,0,ans,res);
+
         return ans;
     }
 
-    public void findAllSubsets(int[] nums,int ind,int n,List<Integer>res,List<List<Integer>> ans){
-        if(ind >= n){
+    public void solve(int[] nums, int ind,List<List<Integer>> ans, List<Integer> res){
+
+        if(ind == nums.length){
             ans.add(new ArrayList<>(res));
             return;
         }
+
         res.add(nums[ind]);
-        findAllSubsets(nums,ind+1,n,res,ans);
-        res.remove(res.size()-1);
-        findAllSubsets(nums,ind+1,n,res,ans);
+
+        solve(nums,ind+1,ans, res);
+
+        res.remove(res.size() - 1);
+
+        solve(nums, ind + 1, ans, res);
     }
 }
