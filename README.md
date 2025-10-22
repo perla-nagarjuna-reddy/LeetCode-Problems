@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0054-spiral-matrix) |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0148-sort-list) |
@@ -1802,6 +1804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0078-subsets) |
