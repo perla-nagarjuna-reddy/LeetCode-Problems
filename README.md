@@ -872,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -1172,6 +1173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-find-the-key-of-the-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1314,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3617-find-the-original-typed-string-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3707-find-the-most-common-response](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3707-find-the-most-common-response) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1844,6 +1847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-smallest-even-multiple](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
@@ -1902,6 +1906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1761-count-sorted-vowel-strings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Game Theory
 |  |
 | ------- |
