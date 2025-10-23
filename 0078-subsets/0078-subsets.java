@@ -12,17 +12,14 @@ class Solution {
 
     public void solve(int[] nums, int ind,List<List<Integer>> ans, List<Integer> res){
 
-        if(ind == nums.length){
-            ans.add(new ArrayList<>(res));
-            return;
+        ArrayList<Integer> curr  = new ArrayList<>(res);
+
+        ans.add(curr);
+
+        for(int i = ind; i < nums.length; i++){
+            res.add(nums[i]);
+            solve(nums,i+1,ans,res);
+            res.remove(res.size() - 1);
         }
-
-        res.add(nums[ind]);
-
-        solve(nums,ind+1,ans, res);
-
-        res.remove(res.size() - 1);
-
-        solve(nums, ind + 1, ans, res);
     }
 }
