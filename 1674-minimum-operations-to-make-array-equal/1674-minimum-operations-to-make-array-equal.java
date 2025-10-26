@@ -15,6 +15,7 @@ class Solution {
         for(int i = 0; i < n; i++){
 
             ops+=Math.abs(median - arr[i]) / 2;
+            
         }
 
         return ops;
