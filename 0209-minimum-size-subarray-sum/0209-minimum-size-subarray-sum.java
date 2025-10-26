@@ -23,10 +23,11 @@ class Solution {
                 while(sum >= target){
                     ans = Math.min(end - start + 1, ans);
                     sum = sum - nums[start];
-                    start++;
+                    start++; 
                 }
 
                 end++;
+                
             }
         }
 
