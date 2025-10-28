@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3707-find-the-most-common-response](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3707-find-the-most-common-response) |
@@ -880,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
@@ -1482,6 +1484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
