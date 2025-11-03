@@ -3,17 +3,27 @@ class Solution {
 
         int ans = 0;
 
+        char prev = colors.charAt(0);
+
+        int prevTime = neededTime[0]; 
+
         for (int i = 1; i < colors.length(); i++) {
 
-            if (colors.charAt(i) == colors.charAt(i - 1)) {
+            char curr = colors.charAt(i);
 
-                ans += Math.min(neededTime[i], neededTime[i - 1]);
+            if (curr == prev) {
+
+                ans += Math.min(prevTime, neededTime[i]);
+ 
+                prevTime = Math.max(prevTime, neededTime[i]);
                 
-                neededTime[i] = Math.max(neededTime[i], neededTime[i - 1]);
+            } else {
+
+                prev = curr;
+                prevTime = neededTime[i];
             }
         }
 
         return ans;
-
     }
 }
