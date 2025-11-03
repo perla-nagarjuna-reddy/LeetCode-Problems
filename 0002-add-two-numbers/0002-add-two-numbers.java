@@ -28,7 +28,7 @@ class Solution {
 
         while(temp1 != null || temp2 != null){
 
-            int sum = 0;
+            int sum = carry;
 
             if(temp1 != null){
                 sum = sum + temp1.val;
@@ -40,15 +40,8 @@ class Solution {
                 sum = sum + temp2.val;
                 temp2 = temp2.next;
             }
-
-            sum += carry;
-
-            if(sum > 9){
-                carry = sum / 10;
-            }
-            else{
-                carry = 0;
-            }
+            
+            carry = sum / 10;
 
             ListNode newNode = new ListNode(sum % 10);
 
