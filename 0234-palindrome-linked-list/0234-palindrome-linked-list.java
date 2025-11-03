@@ -15,9 +15,8 @@ class Solution {
 
         ListNode fast = head;
 
-
         while(fast != null && fast.next != null){
-
+            
             slow = slow.next;
 
             fast = fast.next.next;
@@ -29,13 +28,19 @@ class Solution {
 
         ListNode second = rev;
 
-        while(second != null){
-            if(first.val != second.val) return false;
+
+        while(first != null && second != null){
+
+            if(first.val != second.val){
+                return false;
+            }
+
             first = first.next;
             second = second.next;
         }
 
         return true;
+
     }
 
     public ListNode reverse(ListNode head){
