@@ -589,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/4008-restore-finishing-order) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -676,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -1211,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3830-find-closest-person](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -1476,6 +1479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3151-minimum-processing-time](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3151-minimum-processing-time) |
 | [3334-apple-redistribution-into-boxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3334-apple-redistribution-into-boxes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
