@@ -5,7 +5,7 @@ class Solution {
 
         int sum = 0;
 
-        for(int i = 0; i < n;){
+        for(int i = 0; i < n; ){
 
             if(i == n - 1) return true;
 
