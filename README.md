@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2294-minimum-time-to-complete-trips](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2294-minimum-time-to-complete-trips) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -864,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -1073,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2226-rings-and-rods) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/2334-number-of-flowers-in-full-bloom) |
