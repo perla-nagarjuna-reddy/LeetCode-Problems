@@ -10,31 +10,68 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        List<Integer> lst = new ArrayList<>();
 
-        ListNode temp = head;
+        if(head == null || head.next == null) return head;
+        
+        ListNode slow = head;
 
-        while(temp != null){
-            lst.add(temp.val);
-            temp = temp.next;
+        ListNode fast = head;
+
+        ListNode prev = null;
+
+        while(fast != null && fast.next != null){
+
+            prev = slow;
+
+            slow = slow.next;
+
+            fast = fast.next.next;
         }
-        Collections.sort(lst);
 
-        return createLL(lst);
+        prev.next = null;
+
+        ListNode left = sortList(head);
+
+        ListNode right = sortList(slow);
+
+        return merge(left,right);
     }
 
-    public ListNode createLL(List<Integer> lst){
-        if(lst.size() == 0) return null;
-        ListNode head = new ListNode(lst.get(0));
+    public ListNode merge(ListNode head,ListNode head1){
 
-        ListNode mover = head;
+        ListNode dummy = new ListNode(-1);
 
-        for(int i=1;i<lst.size();i++){
-            ListNode temp = new ListNode(lst.get(i));
-            mover.next = temp;
-            mover = temp;
+        ListNode curr = dummy;
+
+        ListNode temp1 = head;
+
+        ListNode temp2 = head1;
+
+        while(temp1 != null && temp2 != null){
+
+            if(temp1.val < temp2.val){
+                curr.next = temp1;
+                curr = temp1;
+                temp1 = temp1.next;
+            }
+            else{
+                curr.next = temp2;
+                curr = temp2;
+                temp2 = temp2.next;
+            }
         }
 
-        return head;
+        while(temp1 != null){
+            curr.next = temp1;
+            curr = temp1;
+            temp1 = temp1.next;
+        }
+        while(temp2 != null){
+            curr.next = temp2;
+            curr = temp2;
+            temp2 = temp2.next;
+        }
+
+        return dummy.next;
     }
 }
