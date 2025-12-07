@@ -1166,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
