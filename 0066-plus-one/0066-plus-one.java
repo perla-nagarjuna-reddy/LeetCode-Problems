@@ -1,43 +1,17 @@
 class Solution {
-    public int[] plusOne(int[] nums) {
+    public int[] plusOne(int[] digits) {
         
-        ArrayList<Integer> lst = new ArrayList<>();
-
-        int n = nums.length;
-
-        int carry = 0;
-
-        for(int i = n - 1; i >=0; i--){
-
-            int num = nums[i];
-
-            if(i == n - 1){
-                num = num + 1;
+        for(int i = digits.length - 1;i>=0;i--){
+            if(digits[i] < 9){
+                digits[i]++;
+                return digits;
             }
-            else{
-
-                if(carry != 0){
-                    num = num + carry;
-                }
-            }
-
-            carry = num / 10;
-
-            lst.add(num % 10);
-        }
-        
-        if(carry != 0){
-            lst.add(carry);
+            digits[i] = 0;
         }
 
-        int[] ans = new int[lst.size()];
-        
-        int k = 0;
+        digits = new int[digits.length+1];
+        digits[0] = 1;
+        return digits;
 
-        for(int i = lst.size() - 1; i >= 0; i--){
-            ans[k++] = lst.get(i);
-        }
-
-        return ans;
     }
 }
