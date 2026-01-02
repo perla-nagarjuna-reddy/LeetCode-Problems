@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0978-valid-mountain-array) |
@@ -1032,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
