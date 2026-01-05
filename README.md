@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1390-four-divisors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1397-search-suggestions-system](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
@@ -1164,6 +1165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1390-four-divisors](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/perla-nagarjuna-reddy/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
