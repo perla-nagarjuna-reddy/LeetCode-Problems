@@ -21,12 +21,10 @@ class Solution {
             return 0;
         }
 
-        // If there is an obstacle, no path can pass through this cell
         if (grid[i][j] == 1) {
             return 0;
         }
 
-        // If we reach the bottom-right corner, return 1 valid path
         if (i == m && j == n) {
             return 1;
         }
